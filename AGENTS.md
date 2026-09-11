@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Never show a trip card that exceeds the visitor’s selected total budget or round-trip drive-time limit; if nothing matches, say so plainly and offer a clear way to adjust or shuffle the plan.
 
 ## Workflow
 
